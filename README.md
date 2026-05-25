@@ -11,9 +11,6 @@ I like solving specific, annoying problems — the kind where the right tool doe
 **[bash-mcp](https://github.com/chrisscott/bash-mcp)** · TypeScript  
 An MCP server that lets AI agents run shell commands — without handing them a loaded gun. Commands are allowlisted, args are validated per-command, execution never goes through a shell, the working directory is confined, and every call is audit-logged. Designed to fail closed: unknown commands are rejected outright.
 
-**[untappd-graphql](https://github.com/chrisscott/untappd-graphql)** · JavaScript  
-GraphQL wrapper around the Untappd API. Soon to be deprecated.
-
 **[flippy](https://github.com/chrisscott/flippy)** · Go  
 A Slack webhook responder that flips tables and text. `flip` → `(╯°□°）╯︵ ┻━┻`.
 
